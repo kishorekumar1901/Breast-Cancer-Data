@@ -1,5 +1,6 @@
 # Breast-Cancer-Prediction
 Using AI and Machine Learning
+https://gallery.azure.ai/Experiment/Breast-cancer-dataset-6
 
 # Breast Cancer Prediction(full model)
 ![image](https://user-images.githubusercontent.com/76811872/152324080-50de6ddd-7679-4093-aed8-e2d25323e7c8.png)
@@ -28,3 +29,4 @@ Using AI and Machine Learning
 # Abstract
 Breast cancer is a form of tumour that develops in the breast tissues. It is the most frequent cancer in women worldwide, and it is one of the main causes of mortality in women. This article compares the effectiveness of machine learning, deep learning, and data mining techniques in the prediction of breast cancer. Many studies have focused on breast cancer diagnosis and prognosis; however, each technique has a distinct accuracy rate, which varies depending on the situation, instruments, and datasets employed. Our main goal is to compare and contrast several existing Machine Learning and Data Mining techniques in order to identify the most suited way for handling enormous datasets with high prediction accuracy.
 
+gallery link:https://gallery.azure.ai/Experiment/Breast-cancer-dataset-6
